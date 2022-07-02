@@ -1,6 +1,23 @@
-img
+.logo
 {height: 200px;
-width: 250;}
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
 
 body
-{background-color: #382a40;}
+{background-color: #382a40;
+color: #ff1616;
+font-family: 'Gill Sans';
+font-weight: bolder;
+}
+
+pre
+{text-align: center;
+font-size: 16px;
+}
+
+a
+{color: #ff1616;
+text-decoration: none;
+}
